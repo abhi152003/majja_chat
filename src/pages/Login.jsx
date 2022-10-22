@@ -32,6 +32,8 @@ const Login = () => {
           <button>Sign In</button>
         </form>
         <p>You don't have an account? <Link to="/register">Register</Link> </p>
+        <h4>Test Email Id : jeffbezos@gmail.com / billgates@gmail.com</h4>
+        <h4>Test Password : 12345678</h4>
       </div>
     </div>
   )
