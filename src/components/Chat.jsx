@@ -14,7 +14,6 @@ const Chat = () => {
   return (
     <div className='chat'>
       <div className="chatInfo">
-        <Link to="/">←</Link>
         <span>{data.user?.displayName}</span>
         <div className="chatIcons">
           <img src={Cam} alt=''/>
